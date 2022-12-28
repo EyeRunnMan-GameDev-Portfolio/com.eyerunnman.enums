@@ -1,13 +1,13 @@
 {
-  "name": "com.org-name.package-name",
-  "version": "1.7.5",
-  "displayName": "Package Name",
-  "description": "This is an Template repo for Unity Packages (UPM)",
+  "name": "com.eyerunnman.enums",
+  "version": "0.0.0",
+  "displayName": "Enums Package",
+  "description": "An enums unity package containing various common and generic enums that can be used across multiple unity projects",
   "unity": "2019.1",
   "unityRelease": "6f1",
-  "documentationUrl": "https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template#readme",
-  "changelogUrl": "https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template/blob/main/CHANGELOG.md",
-  "licensesUrl": "https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template/blob/main/LICENSE.md",
+  "documentationUrl": "https://eyerunnman-gamedev-portfolio.github.io/com.eyerunnman.enums/articles/GettingStarted.html",
+  "changelogUrl": "https://eyerunnman-gamedev-portfolio.github.io/com.eyerunnman.enums/CHANGELOG.html",
+  "licensesUrl": "https://github.com/EyeRunnMan-GameDev-Portfolio/com.eyerunnman.enums/blob/main/LICENSE.md",
   "samples": [
     {
       "displayName": "TestSample1",
@@ -21,14 +21,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template.git"
+    "url": "git+https://github.com/EyeRunnMan-GameDev-Portfolio/com.eyerunnman.enums.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template/issues"
+    "url": "https://github.com/EyeRunnMan-GameDev-Portfolio/com.eyerunnman.enums/issues"
   },
-  "homepage": "https://github.com/EyeRunnMan-GameDev-Portfolio/unity-package-template",
+  "homepage": "https://eyerunnman-gamedev-portfolio.github.io/com.eyerunnman.enums",
   "author": {
-    "name": "org-name"
+    "name": "eyerunnman"
   }
 }
