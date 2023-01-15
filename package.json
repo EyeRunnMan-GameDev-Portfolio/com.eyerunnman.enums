@@ -1,6 +1,6 @@
 {
   "name": "com.eyerunnman.enums",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Enums Package",
   "description": "An enums unity package containing various common and generic enums that can be used across multiple unity projects",
   "unity": "2019.1",
