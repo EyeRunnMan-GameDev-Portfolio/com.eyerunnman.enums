@@ -7,6 +7,7 @@ namespace com.eyerunnman.enums
     /// <summary>
     /// Direction enums consisting of all the four direction
     /// </summary>
+    [SerializeField]
     public enum Direction{
         /// <summary>
         /// Default direction is undefined
